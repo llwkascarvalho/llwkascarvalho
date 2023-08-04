@@ -1,4 +1,8 @@
-### Olá, eu sou Lwkas Carvalho 
+### Olá, eu sou Lwkas Carvalho!
+
+Seja bem-vindo ao meu perfil.
+
+📚 Buscando constantemente novos conhecimentos e experiências.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Lwkas-C++" height="35" width="35" src="https://img.icons8.com/?size=512&id=108784&format=png">
