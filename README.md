@@ -4,7 +4,11 @@ Seja bem-vindo ao meu perfil.
 
 📚 Buscando constantemente novos conhecimentos e experiências.
 
-![Lwkas Carvalho GitHub stats](https://github-readme-stats.vercel.app/api?username=llwkascarvalho&show_icons=true&theme=tokyonight)
+<div>
+  <a href="https://github.com/llwkascarvalho">
+  <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=llwkascarvalho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llwkascarvalho&layout=compact&langs_count=16&theme=tokyonight"/>
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Lwkas-C++" height="35" width="35" src="https://img.icons8.com/?size=512&id=108784&format=png">
