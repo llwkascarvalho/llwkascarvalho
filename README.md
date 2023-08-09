@@ -1,19 +1,25 @@
-## Olá, eu sou Lwkas Carvalho!
+# Olá, eu sou Lwkas Carvalho!
 
-Seja bem-vindo ao meu perfil.
+### Seja bem-vindo(a) ao meu perfil.
 
-📚 Buscando constantemente novos conhecimentos e experiências.
+<p>Visite <a href="https://github.com/llwkascarvalho/Portfolio">aqui</a> para conhecer mais sobre mim.</p>
 
-<div>
-  <a href="https://github.com/llwkascarvalho">
-  <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=llwkascarvalho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llwkascarvalho&layout=compact&langs_count=16&theme=tokyonight"/>
+🌍 Me encontro buscando constantemente novos conhecimentos e experiências. 
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=llwkascarvalho&bg_color=0d1117&color=ffffff&line=3b05ff&point=f4ffeb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## Teconologias que possuo conhecimento ou que já estudei.
+<div style="display: inline_block"><br> 
+  <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="CSS" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+  <img align="center" alt="CSS" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img align="center" alt="HTML5" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Lwkas-C++" height="35" width="35" src="https://img.icons8.com/?size=512&id=108784&format=png">
-  <img align="center" alt="Lwkas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Lwkas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Lwkas-C++" height="35" width="35" src="https://img.icons8.com/?size=512&id=40669&format=png">
-  <img align="center" alt="Lwkas-C++" height="35" width="35" src="https://img.icons8.com/?size=512&id=12599&format=png">
+## Tecnologias que estou estudando.
+<div style="display: inline_block"><br> 
+  <img align="center" alt="HTML5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img align="center" alt="CSS" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+  <img align="center" alt="CSS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </div>
