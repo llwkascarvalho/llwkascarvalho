@@ -8,7 +8,7 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=llwkascarvalho&bg_color=0d1117&color=ffffff&line=3b05ff&point=f4ffeb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### Teconologias que possuo conhecimento ou que já estudei.
+### Tecnologias que possuo conhecimento ou que já estudei.
 
 <div style="display: inline_block"><br> 
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
